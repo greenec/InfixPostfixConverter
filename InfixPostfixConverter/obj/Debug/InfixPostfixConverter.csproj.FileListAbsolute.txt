@@ -1,0 +1,7 @@
+C:\Users\eahscs\Documents\GitHub\InfixPostfixConverter\InfixPostfixConverter\bin\Debug\InfixPostfixConverter.exe.config
+C:\Users\eahscs\Documents\GitHub\InfixPostfixConverter\InfixPostfixConverter\bin\Debug\InfixPostfixConverter.exe
+C:\Users\eahscs\Documents\GitHub\InfixPostfixConverter\InfixPostfixConverter\bin\Debug\InfixPostfixConverter.pdb
+C:\Users\eahscs\Documents\GitHub\InfixPostfixConverter\InfixPostfixConverter\obj\Debug\InfixPostfixConverter.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\InfixPostfixConverter\InfixPostfixConverter\obj\Debug\InfixPostfixConverter.csproj.CoreCompileInputs.cache
+C:\Users\eahscs\Documents\GitHub\InfixPostfixConverter\InfixPostfixConverter\obj\Debug\InfixPostfixConverter.exe
+C:\Users\eahscs\Documents\GitHub\InfixPostfixConverter\InfixPostfixConverter\obj\Debug\InfixPostfixConverter.pdb
